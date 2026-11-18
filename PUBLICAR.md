@@ -14,7 +14,7 @@ gh auth login
 ```bash
 cd HushHush-PTBR
 gh repo create kaua0f0m/hushhush-ptbr --public --source . --push \
-  --description "Tradução PT-BR (feita por IA, com curadoria do criador) de Hush Hush - Only Your Love Can Save Them"
+  --description "Tradução PT-BR (feita por IA, com curadoria do criador em certas linhas) de Hush Hush - Only Your Love Can Save Them"
 ```
 
 ## 3. Criar a Release com o zip e as somas

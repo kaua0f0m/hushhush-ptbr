@@ -2,7 +2,7 @@ HUSH HUSH - TRADUÇÃO PT-BR  v1.0.0
 =====================================
 O jogo é indicado para maiores de 16 anos na Steam; as cenas adultas ficam na DLC
 de conteúdo NSFW (18+). Tradução de fãs, sem fins lucrativos e sem vínculo com a
-Sad Panda Studios, feita por IA (Claude Code, Sonnet) com curadoria do criador.
+Sad Panda Studios, feita por IA (Claude Code, Sonnet) com curadoria do criador em certas linhas.
 Você precisa ter o Hush Hush original na Steam.
 Este pacote NÃO contém arquivos do jogo: ele altera a sua cópia local.
 

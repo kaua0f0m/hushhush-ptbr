@@ -2,7 +2,7 @@
 
 Tradução para português do Brasil do jogo **Hush Hush - Only Your Love Can Save Them** (Sad Panda Studios, Steam).
 
-> O jogo é indicado para **maiores de 16 anos** na Steam; as cenas adultas ficam na **DLC de conteúdo NSFW (18+)**. Esta é uma tradução de fãs, sem fins lucrativos e sem vínculo com a Sad Panda Studios, **feita por IA (Claude Code, Sonnet) com curadoria do criador**. Você precisa ter o jogo original na Steam; o instalador **não contém nem distribui nenhum arquivo do jogo**, ele altera a sua cópia local.
+> O jogo é indicado para **maiores de 16 anos** na Steam; as cenas adultas ficam na **DLC de conteúdo NSFW (18+)**. Esta é uma tradução de fãs, sem fins lucrativos e sem vínculo com a Sad Panda Studios, **feita por IA (Claude Code, Sonnet) com curadoria do criador em certas linhas**. Você precisa ter o jogo original na Steam; o instalador **não contém nem distribui nenhum arquivo do jogo**, ele altera a sua cópia local.
 
 ## O que está traduzido
 
@@ -62,7 +62,7 @@ Os originais ficam em `_backup_ptbr` dentro da pasta do jogo (cerca de 60 MB). A
 ## Autoria e manutenção
 
 - **Criador:** kaua0f0m
-- **Tradução:** Claude Code (Sonnet), modelo de IA da Anthropic, em colaboração com o criador, que revisou, corrigiu e testou.
+- **Tradução:** Claude Code (Sonnet), modelo de IA da Anthropic, com curadoria do criador em certas linhas.
 - **Jogo original:** Sad Panda Studios
 
 **O criador não vai conseguir manter a tradução quando o jogo atualizar.** Se uma atualização quebrar algo, você tem duas saídas:

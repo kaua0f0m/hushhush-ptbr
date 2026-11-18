@@ -19,7 +19,7 @@ Para desinstalar, rode de novo e escolha **2**. Depois de uma atualização do j
 - Nomes de meses e dias da semana continuam em inglês; textos desenhados em imagens não foram traduzidos.
 - O `.exe` não é assinado: o Windows pode pedir confirmação ("Mais informações > Executar assim mesmo").
 - O jogo é indicado para maiores de 16 anos na Steam; as cenas adultas ficam na DLC NSFW (18+). É preciso ter o jogo original na Steam.
-- Tradução feita por IA (Claude Code, Sonnet) com curadoria do criador (kaua0f0m). O criador não vai conseguir atualizar a tradução quando o jogo mudar: faça um fork ou baixe a versão compatível pelos depots da Steam (instruções no README).
+- Tradução feita por IA (Claude Code, Sonnet) com curadoria do criador em certas linhas (kaua0f0m). O criador não vai conseguir atualizar a tradução quando o jogo mudar: faça um fork ou baixe a versão compatível pelos depots da Steam (instruções no README).
 
 SHA-256 do zip e do `.exe` em `SHA256SUMS.txt`.
 
