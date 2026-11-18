@@ -1,0 +1,46 @@
+HUSH HUSH - TRADUÇÃO PT-BR  v1.0.0
+=====================================
+O jogo é indicado para maiores de 16 anos na Steam; as cenas adultas ficam na DLC
+de conteúdo NSFW (18+). Tradução de fãs, sem fins lucrativos e sem vínculo com a
+Sad Panda Studios, feita por IA (Claude Code, Sonnet) com curadoria do criador.
+Você precisa ter o Hush Hush original na Steam.
+Este pacote NÃO contém arquivos do jogo: ele altera a sua cópia local.
+
+COMO INSTALAR
+  1. Feche o jogo.
+  2. Dê dois cliques em Instalar-HushHush-PTBR.exe
+  3. Digite 1 (Instalar) e Enter. Leva cerca de 1 minuto.
+  4. Abra o jogo pela Steam.
+
+  Se o Windows mostrar "O Windows protegeu o computador", clique em
+  "Mais informações" e depois em "Executar assim mesmo". O programa não é
+  assinado digitalmente; alguns antivírus o marcam por engano.
+
+COMO DESINSTALAR
+  Rode o instalador de novo e digite 2 (Restaurar), ou use na Steam:
+  Propriedades > Arquivos instalados > Verificar integridade.
+
+DEPOIS DE UMA ATUALIZAÇÃO DO JOGO
+  Rode o instalador de novo (opção 1). Os originais ficam guardados em
+  "_backup_ptbr" dentro da pasta do jogo (cerca de 60 MB).
+
+PROBLEMAS CONHECIDOS
+  - Nomes de meses e dias da semana continuam em inglês.
+  - Textos desenhados dentro de imagens não foram traduzidos.
+  - Se algum lugar do mapa não abrir, avise qual foi.
+  Testado na versão da Steam build 26470028 (17/11/2026).
+
+CRÉDITOS
+  Criador: kaua0f0m
+  Tradução: Claude Code (Sonnet), modelo de IA da Anthropic
+  Jogo original: Sad Panda Studios
+
+ATUALIZAÇÕES DO JOGO
+  O criador não vai conseguir atualizar a tradução quando o jogo mudar. Faça um
+  fork e atualize com ajuda de uma IA, ou baixe a versão compatível (build
+  26470028) pelos depots da Steam. Instruções e IDs no README do GitHub.
+
+Licença da tradução: CC BY-NC 4.0. Código do instalador: MIT.
+Código-fonte e suporte: https://github.com/kaua0f0m/hushhush-ptbr
+
+Todo o texto foi traduzido por IA (Claude Code, Sonnet), exceto linhas com copyright e uma piada de cunho duvidoso, traduzidas à mão pelo criador.

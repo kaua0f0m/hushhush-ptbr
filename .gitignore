@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+# Dados da tradução: distribuídos nos assets da Release (veja PUBLICAR.md).
+# Remova as linhas abaixo se quiser versionar os dados no repositório.
+dados/*.json
