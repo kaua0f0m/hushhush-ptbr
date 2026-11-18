@@ -95,4 +95,4 @@ Dica: para impedir que a Steam atualize sozinha, em *Propriedades > Atualizaçõ
 
 ---
 
-Todo o texto foi traduzido por IA (Claude Code, Sonnet), exceto linhas com copyright e uma piada de cunho duvidoso, traduzidas à mão pelo criador.
+Todo o texto foi traduzido por IA (Claude Code, Sonnet), com curadoria do criador em certas linhas onde a IA se recusou a localizar.
